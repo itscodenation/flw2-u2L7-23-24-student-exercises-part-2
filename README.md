@@ -1,4 +1,4 @@
-# FLW2 U2L7: Code Solo
+# Lesson 2.7: Code Solo
 
 ## Coin Flipper
 
