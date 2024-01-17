@@ -46,7 +46,7 @@ function Flip() {
   return (
     <div className="flip">
       <div className="coin">
-        {/* Uncomment lines 30-37 when finished! */}
+        {/* Uncomment lines below when finished! */}
         {/* <img
           src={
             coinSide === "heads"
